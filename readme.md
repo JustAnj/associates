@@ -13,5 +13,5 @@ I am Anjali P, 2nd year ECE student.
 ## What I Plan To Do:
 
 - Learn shell scripting.
-- Customize my laptop fo maximum optimization.
+- Customize my laptop for maximum optimization.
 - Integrate as much as FOSS into my day to day life as well as spread the word around about the community.
